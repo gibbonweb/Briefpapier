@@ -9,4 +9,4 @@ It uses Qt 4.8 but should run on lower versions, since it doesn't use any cuttin
 Requirements/Recommendations:
 
 1. [Qt SDK](http://qt.nokia.com/downloads/) 1.2 or higher
-1. [The PDF Toolkit](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
+1. [The PDF Toolkit](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) 1.44 or higher
