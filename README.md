@@ -16,3 +16,8 @@ It uses Qt 4.8 but should run on lower versions, since it doesn't use any cuttin
 1. [Install Pdftk](http://www.pdflabs.com/docs/install-pdftk/).
 1. Clone Briefpapier to your hard drive and build it. Alternatively, just [get the binary](https://github.com/downloads/gibbonweb/Briefpapier/Briefpapier.dmg) and put it in your Applications folder.
 1. There is no third step.
+
+## Caveats / Limitations:
+
+1. German GUI. Feel free to i18n'ize and L10n'ize the sh*t out of it. I just need it in German. ;)
+1. Supposedly only works with single page input for now. Everything else is untested and entirely up to `pdftk`. See their manfile or just try it out to find out more. ;)
