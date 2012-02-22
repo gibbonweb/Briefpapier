@@ -9,6 +9,7 @@ QT       += core gui
 TARGET = Briefpapier
 TEMPLATE = app
 
+ICON = Briefpapier.icns
 
 SOURCES += main.cpp\
         mainwindow.cpp

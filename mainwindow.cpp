@@ -14,6 +14,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    setWindowIcon(QIcon("Briefpapier.icns"));
     QCoreApplication::setOrganizationName("gibbonweb");
     QCoreApplication::setOrganizationDomain("gibbonweb.net");
     QCoreApplication::setApplicationName("Briefpapier");
