@@ -21,3 +21,21 @@ It uses Qt 4.8 but should run on lower versions, since it doesn't use any cuttin
 
 1. German GUI. Feel free to i18n'ize and L10n'ize the sh*t out of it. I just need it in German. ;)
 1. Supposedly only works with single page input for now. Everything else is untested and entirely up to `pdftk`. See their manfile or just try it out to find out more. ;)
+
+## License
+
+              DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                      Version 2, December 2004
+ 
+    Copyright (C) 2012 Johannes Becker
+
+    http://gibbonweb.net
+
+    Everyone is permitted to copy and distribute verbatim or modified
+    copies of this license document, and changing it is allowed as long
+    as the name is changed.
+ 
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ 
+    0. You just DO WHAT THE FUCK YOU WANT TO.
